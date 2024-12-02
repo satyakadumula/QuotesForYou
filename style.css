@@ -15,23 +15,25 @@ body{
     height: 100vh;
 }
 section{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     /* color:white; */
     background-color: white;
-    border-radius: 20px;
+    border-radius: 30px;
     height:fit-content;
     padding: 20px;
     display: flex;
     flex-direction:column;
     gap: 20px;
+    width: 300px;
+    box-shadow: 0 0 40px;
 }
 
 button{
     font-size: 25px;
 }
 .header{
-    font-size: 24px;
+    font-size: 18px;
 }
 .context{
-    font-size: 26px;
+    font-size: 18px;
 }
